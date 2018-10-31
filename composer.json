@@ -1,0 +1,16 @@
+{
+    "name": "ritayan/comtest",
+    "description": "test for packagist",
+    "type": "library",
+    "require": {
+        "php": "5.6"
+    },
+    "license": "free",
+    "authors": [
+        {
+            "name": "ritayan",
+            "email": "rityan@digitalaptech.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
